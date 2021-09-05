@@ -3,8 +3,9 @@ HEALTH PLATFORM
 We want to build a generic cloud based platform to record various health metric of a given user.
 It has two main consumers.
 1. User
-2. Different Devices.
-   Please build an application that exposes following features to other applications
+2. Different Devices. 
+   
+Build an application that exposes following features to other applications
 1. API to register user.
 2. API to register a device to a user.
 3. API to push metric. Sample metrics should be (height, weight, heart-rate, calorie,
