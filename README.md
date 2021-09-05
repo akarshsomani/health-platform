@@ -1,6 +1,5 @@
 HEALTH PLATFORM
 
-Problem Statement
 We want to build a generic cloud based platform to record various health metric of a given user.
 It has two main consumers.
 1. User
